@@ -4,6 +4,7 @@
 
 - [bug] JAVA-1330: Add un/register for SchemaChangeListener in DelegatingCluster
 - [bug] JAVA-1351: Include Custom Payload in Request.copy.
+- [improvement] JAVA-866: Support tuple notation in QueryBuilder.eq/in.
 
 
 ### 3.0.5
